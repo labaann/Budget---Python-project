@@ -1,0 +1,11 @@
+add_income_N wyplata05 2021 5 7 1 2500 
+add_income_N wyplata06 2021 6 7 1 2500 
+add_income_Y wyplata06 2021 06 10 2750 1 
+add_income_N wygrana_w_totka 2021 5 5 4 15000 
+add_income_N zakup_samochodu 2021 7 1 2 35000 
+set_limit 4 30500.0
+add_outcome_N beemwu 2021 7 10 4 30000 
+add_outcome_N mieszkanie06 2021 6 11 1 1280 
+add_outcome_Y mieszkanie06 2021 06 10 1350 1 
+add_outcome_N biedronka 2021 6 17 2 235 
+add_outcome_N kino 2021 6 25 3 100 
